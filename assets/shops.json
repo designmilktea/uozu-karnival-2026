@@ -1,0 +1,481 @@
+{
+  "source": "https://www.uozu-kanko.jp/uozu-bar/img/map.pdf",
+  "source_file": "map.pdf",
+  "page_count": 2,
+  "map_assets": {
+    "area": {
+      "image": "map_area.png",
+      "width": 1434,
+      "height": 749
+    },
+    "station": {
+      "image": "map_station.png",
+      "width": 1388,
+      "height": 618
+    }
+  },
+  "coordinate_system": "x/y proportions of cropped map image; top-left (0,0) bottom-right (1,1)",
+  "note": "Coordinates visually measured against original PDF and should be validated with overlay preview before production release. Names are a manually transcribed search index, original shop card images remain authoritative.",
+  "shops": [
+    {
+      "id": 1,
+      "name": "勇寿し",
+      "image": "shops/01.png",
+      "map": "area",
+      "x": 0.46279,
+      "y": 0.46222,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 2,
+      "name": "居酒屋いっぺい",
+      "image": "shops/02.png",
+      "map": "station",
+      "x": 0.27452,
+      "y": 0.20878,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 3,
+      "name": "居酒屋えば",
+      "image": "shops/03.png",
+      "map": "station",
+      "x": 0.40849,
+      "y": 0.66489,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 4,
+      "name": "居酒屋 語り",
+      "image": "shops/04.png",
+      "map": "station",
+      "x": 0.29545,
+      "y": 0.21144,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 5,
+      "name": "居酒屋どんべえ",
+      "image": "shops/05.png",
+      "map": "station",
+      "x": 0.44737,
+      "y": 0.3617,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 6,
+      "name": "イタリア食堂デルフィーノ",
+      "image": "shops/06.png",
+      "map": "area",
+      "x": 0.82267,
+      "y": 0.16889,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 7,
+      "name": "魚津ダイニング三三五五",
+      "image": "shops/07.png",
+      "map": "station",
+      "x": 0.51256,
+      "y": 0.44548,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 8,
+      "name": "魚津丸キッチン",
+      "image": "shops/08.png",
+      "map": "area",
+      "x": 0.02384,
+      "y": 0.24333,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 9,
+      "name": "魚津丸食堂",
+      "image": "shops/09.png",
+      "map": "area",
+      "x": 0.52384,
+      "y": 0.13778,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 10,
+      "name": "越中上原屋",
+      "image": "shops/10.png",
+      "map": "station",
+      "x": 0.72069,
+      "y": 0.64362,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 11,
+      "name": "海鮮食堂 喜見城",
+      "image": "shops/11.png",
+      "map": "area",
+      "x": 0.58895,
+      "y": 0.04667,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 12,
+      "name": "cafe&animo",
+      "image": "shops/12.png",
+      "map": "station",
+      "x": 0.04306,
+      "y": 0.71543,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 13,
+      "name": "北山鉱泉 子宝の湯 元祖仁右衛門家",
+      "image": "shops/13.png",
+      "map": "area",
+      "x": 0.24419,
+      "y": 0.95444,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 14,
+      "name": "きまぐれ屋PECO",
+      "image": "shops/14.png",
+      "map": "station",
+      "x": 0.55203,
+      "y": 0.19282,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 15,
+      "name": "喜楽",
+      "image": "shops/15.png",
+      "map": "area",
+      "x": 0.53488,
+      "y": 0.19111,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 16,
+      "name": "金太郎温泉 カルナの館",
+      "image": "shops/16.png",
+      "map": "area",
+      "x": 0.95523,
+      "y": 0.72333,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 17,
+      "name": "金太郎温泉 光風閣",
+      "image": "shops/17.png",
+      "map": "area",
+      "x": 0.95523,
+      "y": 0.75333,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 18,
+      "name": "銀河食堂 掛",
+      "image": "shops/18.png",
+      "map": "station",
+      "x": 0.3439,
+      "y": 0.49468,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 19,
+      "name": "串揚げ ぜんろく",
+      "image": "shops/19.png",
+      "map": "station",
+      "x": 0.53828,
+      "y": 0.38165,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 20,
+      "name": "魚料理と地酒 円陣",
+      "image": "shops/20.png",
+      "map": "station",
+      "x": 0.61603,
+      "y": 0.43617,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 21,
+      "name": "四季料理 悠",
+      "image": "shops/21.png",
+      "map": "station",
+      "x": 0.47428,
+      "y": 0.38564,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 22,
+      "name": "地物・天ぷら 増重",
+      "image": "shops/22.png",
+      "map": "station",
+      "x": 0.29844,
+      "y": 0.26995,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 23,
+      "name": "食 たむら",
+      "image": "shops/23.png",
+      "map": "station",
+      "x": 0.24222,
+      "y": 0.26862,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 24,
+      "name": "城寿し",
+      "image": "shops/24.png",
+      "map": "area",
+      "x": 0.425,
+      "y": 0.40889,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 25,
+      "name": "旬菜酒房 まめな家",
+      "image": "shops/25.png",
+      "map": "station",
+      "x": 0.44737,
+      "y": 0.71144,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 26,
+      "name": "寿し 次郎長",
+      "image": "shops/26.png",
+      "map": "area",
+      "x": 0.36512,
+      "y": 0.25556,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 27,
+      "name": "台湾美食",
+      "image": "shops/27.png",
+      "map": "station",
+      "x": 0.51914,
+      "y": 0.38165,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 28,
+      "name": "大黒屋寿司店",
+      "image": "shops/28.png",
+      "map": "area",
+      "x": 0.41628,
+      "y": 0.30889,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 29,
+      "name": "チーコ食堂",
+      "image": "shops/29.png",
+      "map": "area",
+      "x": 0.9314,
+      "y": 0.21778,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 30,
+      "name": "中国家常菜 竈",
+      "image": "shops/30.png",
+      "map": "station",
+      "x": 0.92524,
+      "y": 0.80718,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 31,
+      "name": "ちょい呑みバー どんぴしゃ",
+      "image": "shops/31.png",
+      "map": "station",
+      "x": 0.62739,
+      "y": 0.3391,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 32,
+      "name": "徳利",
+      "image": "shops/32.png",
+      "map": "station",
+      "x": 0.3433,
+      "y": 0.58777,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 33,
+      "name": "Trattoria La Luce",
+      "image": "shops/33.png",
+      "map": "area",
+      "x": 0.05523,
+      "y": 0.46667,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 34,
+      "name": "日本料理 海風亭",
+      "image": "shops/34.png",
+      "map": "station",
+      "x": 0.67823,
+      "y": 0.33777,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 35,
+      "name": "日本料理 かづみ野",
+      "image": "shops/35.png",
+      "map": "station",
+      "x": 0.04545,
+      "y": 0.6383,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 36,
+      "name": "八っ寸亭",
+      "image": "shops/36.png",
+      "map": "station",
+      "x": 0.55861,
+      "y": 0.38165,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 37,
+      "name": "BAOBAB cafe",
+      "image": "shops/37.png",
+      "map": "station",
+      "x": 0.68481,
+      "y": 0.42553,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 38,
+      "name": "BOQUERIA",
+      "image": "shops/38.png",
+      "map": "station",
+      "x": 0.58014,
+      "y": 0.38298,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 39,
+      "name": "ホテルグランミラージュ レストランミラヴェール",
+      "image": "shops/39.png",
+      "map": "station",
+      "x": 0.80144,
+      "y": 0.91622,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 40,
+      "name": "まちかどイタリアン frontale",
+      "image": "shops/40.png",
+      "map": "station",
+      "x": 0.311,
+      "y": 0.69814,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 41,
+      "name": "めん処 はまちょう",
+      "image": "shops/41.png",
+      "map": "area",
+      "x": 0.58895,
+      "y": 0.08,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 42,
+      "name": "焼肉ホルモン 虎ノ門",
+      "image": "shops/42.png",
+      "map": "station",
+      "x": 0.68481,
+      "y": 0.59043,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 43,
+      "name": "りとるふぁーむ食堂",
+      "image": "shops/43.png",
+      "map": "station",
+      "x": 0.3756,
+      "y": 0.38697,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 44,
+      "name": "和食処 えん",
+      "image": "shops/44.png",
+      "map": "station",
+      "x": 0.65849,
+      "y": 0.3391,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 45,
+      "name": "和の膳 うらら",
+      "image": "shops/45.png",
+      "map": "station",
+      "x": 0.39892,
+      "y": 0.38963,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    },
+    {
+      "id": 46,
+      "name": "わび助",
+      "image": "shops/46.png",
+      "map": "station",
+      "x": 0.189,
+      "y": 0.85239,
+      "position_status": "visually_located",
+      "source": "official PDF page 1 map, page 2 shop panel"
+    }
+  ]
+}
