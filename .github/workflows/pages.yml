@@ -1,4 +1,5 @@
 name: Build and publish Uozu Karnival site
+# Fresh publishing run avoids duplicate artifact names from a previous rerun.
 on:
   push:
     branches: [main]
